@@ -20,7 +20,7 @@
 
 <br>
 
-![d1rx's github stats](https://github-readme-stats.vercel.app/api?username=d1rx&count_private=true&show_icons=true&theme=dark)
+![0xd1r's github stats](https://github-readme-stats.vercel.app/api?username=0xd1r&count_private=true&show_icons=true&theme=dark)
   
 <br>
     <a href="https://0xd1r.github.io/" target="_blank">
