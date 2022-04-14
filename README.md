@@ -1,5 +1,5 @@
 <div align="center">
- <h1>Hello there, I'm d1rx<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+ <h1>Hello there, I'm 0xd1r<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 </div>
 
 <br>
@@ -23,8 +23,8 @@
 ![d1rx's github stats](https://github-readme-stats.vercel.app/api?username=d1rx&count_private=true&show_icons=true&theme=dark)
   
 <br>
-    <a href="https://d1rx.github.io/" target="_blank">
-    <img align="left" alt="d1rx | Blog" width="28px" src="https://www.seekpng.com/png/full/837-8373036_icon-internet-01-copy-website-icon-vector-png.png" />
+    <a href="https://0xd1r.github.io/" target="_blank">
+    <img align="left" alt="0xd1r | Blog" width="28px" src="https://www.seekpng.com/png/full/837-8373036_icon-internet-01-copy-website-icon-vector-png.png" />
   </a>
 
   <a href="mailto:d1pyamanroy@protonmail.com" target="_blank">
