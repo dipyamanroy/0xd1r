@@ -22,14 +22,5 @@
 
 ![0xd1r's github stats](https://github-readme-stats.vercel.app/api?username=0xd1r&count_private=true&show_icons=true&theme=dark)
   
-<br>
-    <a href="https://0xd1r.github.io/" target="_blank">
-    <img align="left" alt="0xd1r | Blog" width="28px" src="https://www.seekpng.com/png/full/837-8373036_icon-internet-01-copy-website-icon-vector-png.png" />
-  </a>
 
-  <a href="mailto:d1pyamanroy@protonmail.com" target="_blank">
-    <img align="left" alt="Dipyaman Roy| ProtonMail" width="20px" src="https://protonmail.com/images/media/logos/protonmail-sign-purple.png" />
-  </a>
-
- <a href="https://www.linkedin.com/in/d1pyaman-r0y/" target="_blank">
-   <img align="left" alt="Dipyaman Roy | Linkedin " width="34px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"</a>
+[![@dipper's Holopin board](https://holopin.me/dipper)](https://holopin.io/@dipper)
